@@ -6,7 +6,7 @@ const ContactPage: React.FC = () => {
     <div className="bg-gray-900 min-h-screen flex items-center justify-center py-10">
       <div className="container mx-auto flex flex-col items-center px-4">
         <div className="w-full max-w-md">
-          <h1 className="text-5xl font-bold mb-4 text-white text-center">
+          <h1 className="text-5xl font-bold mb-8 text-white text-center">
             Get in Touch
           </h1>
           <form className="bg-gray-800 p-8 rounded-lg shadow-xl transition-transform duration-300 transform hover:scale-105">
