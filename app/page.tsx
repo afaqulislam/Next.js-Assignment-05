@@ -17,7 +17,7 @@ const HomePage: React.FC = () => {
               I'm a passionate Frontend Developer creating modern, responsive
               web applications using the latest technologies.
             </p>
-            <div>
+            <div className="flex items-center justify-center ">
               <Button variant="destructive">Download CV</Button>
             </div>
           </div>
